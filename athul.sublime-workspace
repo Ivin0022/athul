@@ -1,0 +1,1201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"index\tstatement"
+			],
+			[
+				"wr",
+				"write\tfunction"
+			],
+			[
+				"en",
+				"end"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"pan",
+				"panel-heading \tBootstrap 3 Class"
+			],
+			[
+				"bs",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"cal",
+				"class_completions\tstatement"
+			],
+			[
+				"data",
+				"data_completions"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"wh",
+				"WheelRight"
+			],
+			[
+				"col-md-of",
+				"col-md-offset-4 \tBootstrap 3 Class"
+			],
+			[
+				"pa",
+				"panel-body \tBootstrap 3 Class"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"ap",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"cre",
+				"createTextNode\t( data: DOMString ): Text Document"
+			],
+			[
+				"do",
+				"document\t: Document Window"
+			],
+			[
+				"a",
+				"append\t( nodes_..: Node|DOMString ): void Document"
+			],
+			[
+				"getele",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"cr",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"doc",
+				"documentElement\t: Element Document"
+			],
+			[
+				"app",
+				"append\t.append()"
+			],
+			[
+				"eac",
+				"each\t$.each()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border-bott",
+				"border-bottom-style"
+			],
+			[
+				"bos",
+				"border-style"
+			],
+			[
+				"ma",
+				"mb-a\tmargin-bottom: auto;"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ter",
+				"text-decoration-line"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"co",
+				"col-md \tBootstrap 4 Class"
+			],
+			[
+				"col-ms",
+				"col-md-offset-3 \tBootstrap 3 Class"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"caro",
+				"carousel-caption \tBootstrap 3 Class"
+			],
+			[
+				"ca",
+				"carousel-caption \tBootstrap 3 Class"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"WH",
+				"WheelUp"
+			],
+			[
+				"if",
+				"If"
+			],
+			[
+				"joyz",
+				"JoyZ"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"pt",
+				"pprint\tfunction"
+			],
+			[
+				"y",
+				"yellow_page\tstatement"
+			],
+			[
+				"fr",
+				"format\tfunction"
+			],
+			[
+				"p",
+				"phoneNumber"
+			],
+			[
+				"naba",
+				"navbar-default \tBootstrap 3 Class"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"navba",
+				"navbar-inverse \tBootstrap 4 Class"
+			],
+			[
+				"na",
+				"nav-divider \tBootstrap 3 Class"
+			],
+			[
+				"navbar-fi",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"nav-",
+				"navbar-toggler-right \tBootstrap 4 Class"
+			],
+			[
+				"nav",
+				"navbar \tBootstrap 4 Class"
+			],
+			[
+				"QDi",
+				"QDialog\tclass"
+			],
+			[
+				"qw",
+				"QtWidgets\tmodule"
+			],
+			[
+				"se",
+				"setupUi\tfunction"
+			],
+			[
+				"ui",
+				"Ui_Dialog"
+			],
+			[
+				"v",
+				"view\tmodule"
+			],
+			[
+				"su",
+				"super\tclass"
+			],
+			[
+				"call",
+				"callBack\timport"
+			],
+			[
+				"he",
+				"helpers\tmodule"
+			],
+			[
+				"dec",
+				"dec\tfunction"
+			],
+			[
+				"e",
+				"exit\tfunction"
+			],
+			[
+				"d",
+				"dtype"
+			],
+			[
+				"ra",
+				"randint\tstatement"
+			],
+			[
+				"r",
+				"random\tstatement"
+			],
+			[
+				"swt",
+				"setWindowTitle\tfunction"
+			],
+			[
+				"setwt",
+				"setWindowTitle\tfunction"
+			],
+			[
+				"ex",
+				"exec_\tfunction"
+			],
+			[
+				"byt",
+				"bytes\tclass"
+			],
+			[
+				"soc",
+				"socket\tclass"
+			],
+			[
+				"so",
+				"socket\tclass"
+			],
+			[
+				"w",
+				"writeDatagram\tfunction"
+			],
+			[
+				"read",
+				"readDatagram\tfunction"
+			],
+			[
+				"h",
+				"hasPendingDatagrams\tfunction"
+			],
+			[
+				"us",
+				"udpSocket\tstatement"
+			],
+			[
+				"l",
+				"LocalHost\tinstance"
+			],
+			[
+				"qu",
+				"QUdpSocket\tclass"
+			],
+			[
+				"q",
+				"QUdpSocket\tclass"
+			],
+			[
+				"dta",
+				"dataTrailer\tstatement"
+			],
+			[
+				"pac",
+				"packetHeader"
+			],
+			[
+				"her",
+				"headerType"
+			],
+			[
+				"prt",
+				"print\tfunction"
+			],
+			[
+				"set",
+				"setTextFormat\tfunction"
+			],
+			[
+				"sets",
+				"setScaledContents\tfunction"
+			],
+			[
+				"t",
+				"toggle\tfunction"
+			],
+			[
+				"qapp",
+				"QApplication\tclass"
+			],
+			[
+				"id",
+				"Id"
+			],
+			[
+				"ch",
+				"checksum"
+			],
+			[
+				"st",
+				"Status"
+			],
+			[
+				"u",
+				"uint8\timport"
+			],
+			[
+				"int",
+				"int8\timport"
+			],
+			[
+				"f",
+				"fromstring"
+			],
+			[
+				"qap",
+				"QApplication\tclass"
+			],
+			[
+				"cli",
+				"clicked\tfunction"
+			],
+			[
+				"qdi",
+				"QDialog\tclass"
+			],
+			[
+				"qm",
+				"QMainWindow\tclass"
+			],
+			[
+				"qa",
+				"QApplication\tclass"
+			],
+			[
+				"de",
+				"depth\tforstmt"
+			],
+			[
+				"exp",
+				"expression\tstatement"
+			],
+			[
+				"char",
+				"char\tstatement"
+			],
+			[
+				"is",
+				"istitle\tfunction"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"ad",
+				"append\tfunction"
+			],
+			[
+				"str",
+				"str\tclass"
+			],
+			[
+				"op",
+				"operators\tstatement"
+			],
+			[
+				"s",
+				"strip\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1442,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 336,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 506,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/AutoHotkey/AutoHotkey.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/AutoHotkey/AutoHotkey.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 302.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"pvr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ssaut",
+				"Set Syntax: AutoHotkey"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ssx",
+				"Set Syntax: XML"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"p",
+				"Project: Edit Project"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"prv",
+				"Project: Save As"
+			],
+			[
+				"",
+				"Set Syntax: C++"
+			],
+			[
+				"ss",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/athul",
+		"/C/wamp/www/athul/img"
+	],
+	"file_history":
+	[
+		"/C/Users/user/t.py",
+		"/C/Users/user/out.txt",
+		"/C/wamp/www/athul/style.css",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Anaconda/anaconda_lib/helpers.py",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Bootstrap 3 Autocomplete/bootstrap_3_autocomplete.py",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Anaconda/listeners/completion.py",
+		"/C/Users/user/Desktop/joyofmouse.ahk",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Bootstrap 3 Autocomplete/README.md",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Bootstrap 3 Autocomplete/package-metadata.json",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Bootstrap 3 Autocomplete/screenshot.png",
+		"/C/wamp/www/dr/style.css",
+		"/c/wamp/www/dr/index.html",
+		"/c/wamp/www/dr/img/2.jpg",
+		"/D/py/index.html",
+		"/D/udp/sender/sauce/callBackSys.py",
+		"/D/udp/sender/actions.py",
+		"/D/udp/sender/sender.py",
+		"/D/udp/sender/view.py",
+		"/D/udp/sender/myHelper/__init__.py",
+		"/D/udp/sender/myHelper/callBackSys.py",
+		"/D/udp/sender/input.py",
+		"/D/udp/sender/helper/callBackSys.py",
+		"/D/udp/sender/sent.sublime-project",
+		"/D/udp/recever/recv.sublime-project",
+		"/D/udp/sender/chn.py",
+		"/D/udp/recever/recv.py",
+		"/D/udp/launcher.py",
+		"/D/udp/udp.sublime-project",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/D/udp/sender/network/chn.py",
+		"/D/udp/sender/dialog.ui",
+		"/D/suace/py/main.py",
+		"/D/udp/sender.py",
+		"/D/udp/sender/layout.ui",
+		"/D/udp/sender/myWindow.ui",
+		"/C/Users/user/Desktop/UDP-OK2/network/network.h",
+		"/C/Users/user/Desktop/msp-network/joe.py",
+		"/D/suace/py/testbench.sublime-project",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Python/Python.sublime-build"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"raw",
+			"names",
+			"athul",
+			": ",
+			"default",
+			"prefix",
+			"WheelDown",
+			"joyr",
+			"var",
+			"orange",
+			"banana",
+			"active",
+			"wrapper",
+			"DeltaX",
+			"joyz",
+			"joyx",
+			"10",
+			"%JoyThresholdUpper%",
+			"active",
+			"img",
+			"src",
+			"alt",
+			"jpg",
+			"tmp",
+			"Name",
+			",",
+			"name",
+			"page3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										406,
+										409
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "athul.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\udp\\udp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

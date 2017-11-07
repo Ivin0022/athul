@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="style.css">
+	<title>Athul Jose Menachary</title>
+</head>
+
+<body>
+	<h1 align="center">hello world</h1>
+	<div class="container">
+		<div class="col-md-6">
+			<div class="panel-group" id="accordion">
+				<?php foreach ($names as $i=>$val): ?>
+				<div class="panel">
+					<a data-toggle="collapse" data-parent="#accordion" href=<?="#collapse" .$i ?>>
+							<div class="panel-heading">
+								<h4 align="center" class="panel-title">
+									<b><?= $val ?></b>
+								</h4>
+							</div>
+						</a>
+					<div id=<?="collapse" .$i ?> class="panel-collapse collapse">
+						<div class="panel-body">
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+								Labore atque dolor in quam tenetur maxime, sed blanditiis! 
+								Dicta, repudiandae maxime temporibus optio minima fugit at 
+								similique, esse nobis, tempora, rem.
+							</p>
+						</div>
+					</div>
+				</div>
+				<?php endforeach ?>
+			</div>
+		</div>
+	</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<!-- <script src="script.js"></script> -->
+</body>
+
+</html>
