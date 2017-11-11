@@ -1,0 +1,12 @@
+body {
+	/*background-image: url('img/background2.jpg');*/
+	background-color: #808080;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.card {
+	background-color: #151515;
+	min-height: 500px;
+	padding: 24px
+}

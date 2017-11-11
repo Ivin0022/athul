@@ -13,7 +13,8 @@
 		{
 			"file_exclude_patterns":
 			[
-				"athul.sublime-project"
+				"athul.sublime-project",
+				".gitignore"
 			],
 			"path": "."
 		}

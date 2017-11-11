@@ -1,36 +1,48 @@
 <?php 
-	
-	$servername = "localhost";
-	$username = "root";
-	$password = "";
 
-	// Create connection
-	$conn = new mysqli($servername, $username, $password, "athul");
+    require 'helpers.php';
 
-	// Check connection
-	if ($conn->connect_error) {
-	    die("Connection failed: " . $conn->connect_error);
-	}
+    $servername = "localhost";
+    $username = "root";
+    $password = "";
+    $db = "athul";
 
+        // Create connection
+    $conn = new mysqli($servername, $username, $password, $db);
 
-	$sql = "SELECT name FROM colleges";
-	$result = $conn->query($sql);
-
-	$names = array();
-	if ($result->num_rows > 0) {
-	    // output data of each row
-	    while($row = $result->fetch_assoc()) {
-	    	array_push($names, $row["name"]);
-	    }
-	} else {
-	    echo "0 results";
-	}
-
-	$conn->close();
+        // Check connection
+    if ($conn->connect_error) {
+      die("Connection failed: " . $conn->connect_error);
+    }
 
 
 
-	// $names = array('ivin', 'sam', 'athul');	
-	include 'templates/home.html';
-	
+    $sql = "SELECT name FROM colleges";
+    $result = $conn->query($sql);
+
+    $data = array();
+    while(true == true) 
+    {
+        $row = $result->fetch_assoc();
+        if($row == null) break;
+        array_push($data, $row['name']);
+    }
+
+    $collegeData = array();
+    foreach ($data as $value) {
+        $sql = sprintf("SELECT * FROM ug WHERE clg_name='%s'", $value);
+        $result = $conn->query($sql);
+        $row = $result->fetch_assoc();
+        $row = array_slice($row, 1);
+        // array_push($collegeData, $row);
+        $collegeData[$value] = $row;
+    }    
+
+    $conn->close();
+
+
+    $ug_courses = array('BCA', 'BSC', 'BTech');
+    $pg_courses = array('MCA', 'MSC', 'MTech');
+    include 'templates/home.php';
+
 ?>
